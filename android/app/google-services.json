@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938766137977",
+    "project_id": "fire-notes-1dc2f",
+    "storage_bucket": "fire-notes-1dc2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938766137977:android:3de682740a9e0365b732a8",
+        "android_client_info": {
+          "package_name": "com.example.imbody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938766137977-rgam7vff8omcrdje95b6bs6hq94ol1gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8JC5eUvgn5TQlC7oPOH1Q-eHh8y6-DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938766137977-rgam7vff8omcrdje95b6bs6hq94ol1gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
